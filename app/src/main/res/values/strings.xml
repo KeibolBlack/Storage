@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Storage</string>
+    <string name="dashboard_preferences">Preferences</string>
+    <string name="dashboard_files">Files</string>
+    <string name="dashboard_sdcard">SD Card</string>
+    <string name="dashboard_xml">XML</string>
+    <string name="dashboard_raw">Raw</string>
+    <string name="dashboard_assets">Assets</string>
+    <string name="dashboard_database">Database</string>
+    <string name="title_activity_preferences">PreferencesActivity</string>
+    <string name="preferences_edittext_hint">Write something&#8230;</string>
+    <string name="preferences_checkbox">Check if you want</string>
+
+    <string-array name="preferences_spinner">
+        <item>First option</item>
+        <item>Second option</item>
+        <item>Third option</item>
+        <item>Fourth option</item>
+        <item>Fifth option</item>
+    </string-array>
+
+    <string name="title_activity_files">FilesActivity</string>
+    <string name="title_activity_xml">XmlActivity</string>
+    <string name="title_activity_database">DatabaseActivity</string>
+
+</resources>

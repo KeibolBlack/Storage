@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\carfrrui\Downloads\Storage\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\carfrrui\Downloads\Storage\app\build\intermediates\pre-dexed\debug\classes-1a5e356f2b6b6ab30e8236478f19a19ab9abbe59.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\carfrrui\Downloads\Storage\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-99c1ccd53a7fa88549c32ac544faa9e96cd17557.jar" />
+    </item>
+    <item
+        jar="C:\Users\carfrrui\Downloads\Storage\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\carfrrui\Downloads\Storage\app\build\intermediates\pre-dexed\debug\classes-29fcd85e6ea543f4edf4de3a70596d5b2a400671.jar" />
+    </item>
+    <item
+        jar="C:\Users\carfrrui\Downloads\Storage\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\carfrrui\Downloads\Storage\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-65f0dd99a902397577cc44f1f910944fa6062632.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,5 @@
+C:\Users\carfrrui\Downloads\Storage\app\build\intermediates\classes\debug
+C:\Users\carfrrui\Downloads\Storage\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-99c1ccd53a7fa88549c32ac544faa9e96cd17557.jar
+C:\Users\carfrrui\Downloads\Storage\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-65f0dd99a902397577cc44f1f910944fa6062632.jar
+C:\Users\carfrrui\Downloads\Storage\app\build\intermediates\pre-dexed\debug\classes-29fcd85e6ea543f4edf4de3a70596d5b2a400671.jar
+C:\Users\carfrrui\Downloads\Storage\app\build\intermediates\pre-dexed\debug\classes-1a5e356f2b6b6ab30e8236478f19a19ab9abbe59.jar
